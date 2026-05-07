@@ -160,7 +160,7 @@ With `--workers 5` and `claude-sonnet-4-20250514`, a task that would take ~10 mi
 
 ## Related
 
-- [claude-resume](https://github.com/YOUR_USERNAME/claude-resume) — auto-resume Claude Code on rate limit (pairs well with claude-swarm)
+- [claude-resume]https://github.com/Mariglend/claude-swarm.git — auto-resume Claude Code on rate limit (pairs well with claude-swarm)
 
 ---
 
