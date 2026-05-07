@@ -52,7 +52,7 @@ Each worker is a separate `claude --print` process with a focused, isolated task
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-swarm.git
+git https://github.com/Mariglend/claude-swarm.git
 cd claude-swarm
 chmod +x swarm.py
 ```
